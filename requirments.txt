@@ -1,6 +1,6 @@
-Streamlit
-Openai
-Colorthief
-Matplotlib
-Scikit-learn
-Pillow
+streamlit
+openai
+colorthief
+matplotlib
+scikit-learn
+pillow
